@@ -6,18 +6,12 @@ METHOD:REQUEST
 BEGIN:VEVENT
 DTSTART:20161120T120000Z
 DTEND:20161120T140000Z
-DTSTAMP:20161107T223250Z
+DTSTAMP:20161110T071456Z
 ORGANIZER;CN=Bobby D:mailto:bobby@makankor.net
-UID:lsa83d2gvpb7h9cisusolfna14@google.com
+UID:bhp47tsltot7n3e2l1bl8h1cm0@google.com
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
  TRUE;CN=n0rp@msn.com;X-NUM-GUESTS=0:mailto:n0rp@msn.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
- ;CN=Bobby D;X-NUM-GUESTS=0:mailto:bobby@makankor.net
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=Alex Muzhar;X-NUM-GUESTS=0:mailto:kzubux@gmail.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=jmuz@ymail.com;X-NUM-GUESTS=0:mailto:jmuz@ymail.com
-CREATED:20161107T103532Z
+CREATED:20161110T000025Z
 DESCRIPTION:Bismillahhirrahmanirrahim\,\n\nAssalamu Alaikum Warahmatullahi 
  Wabarakatuh\,\n\nDengan memohon Rahmat dan Ridho Allah Subhanahu Wa ta'ala\
  nKami berharap kehadiran Saudara/i pada acara Walimatul ‘Ursy \nkami yang i
@@ -25,34 +19,25 @@ DESCRIPTION:Bismillahhirrahmanirrahim\,\n\nAssalamu Alaikum Warahmatullahi
   19:00 - 21:00\ndi gedung Caraka Loka\n\nMerupakan suatu kehormatan dan keb
  ahagiaan apabila Saudara/i\nberkenan hadir untuk memberikan do'a restunya k
  epada kami\n\nWassalamu Alaikum Warahmatullahi Wabarakatuh\,\n\nBobby & Lel
- y\nView your event at https://www.google.com/calendar/event?action=VIEW&eid
- =bHNhODNkMmd2cGI3aDljaXN1c29sZm5hMTQgbjBycEBtc24uY29t&tok=MTgjYm9iYnlAbWFrY
- W5rb3IubmV0Mjk5MTA4MDAzNmVkMmNjMzQ3N2E5NzU2ZjhkZjMzYjc5MzMzYjgzYg&ctz=Asia/
- Jakarta&hl=en_GB.
-LAST-MODIFIED:20161107T223250Z
+ y\n\n\nLokasi:\n\nJl. Sisingamangaraja No.73\, RT.2/RW.6\, Gunung\, Kby. Ba
+ ru\, Kota Jakarta Selatan\, Daerah Khusus Ibukota Jakarta 12120\n\nhttps://
+ goo.gl/maps/tZqmw1jE5LD2\n\nThis event has a Google Hangouts video call.\nJ
+ oin: https://plus.google.com/hangouts/_/makankor.net/bobby-bobby-dw?hceid=Y
+ m9iYnlAbWFrYW5rb3IubmV0.bhp47tsltot7n3e2l1bl8h1cm0&hs=121\n\nView your even
+ t at https://www.google.com/calendar/event?action=VIEW&eid=YmhwNDd0c2x0b3Q3
+ bjNlMmwxYmw4aDFjbTAgbjBycEBtc24uY29t&tok=MTgjYm9iYnlAbWFrYW5rb3IubmV0NGJhZT
+ E1OGEyYmQ1NmYzM2FlNGEwYjJkMzJmMDE2YTgyNzYwZTk0YQ&ctz=Asia/Jakarta&hl=en_GB.
+LAST-MODIFIED:20161110T071456Z
 LOCATION:6P58QQCX+86
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Bobby & Lely Wedding Invitation
 TRANSP:OPAQUE
-ATTACH;FILENAME=L&B.jpg:https://drive.google.com/a/makankor.net/file/d/0Bzp
- noZfjV62_UzBvam5XemV6V1k/view?usp=drive_web
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:EMAIL
-DESCRIPTION:This is an event reminder
-SUMMARY:Alarm notification
-ATTENDEE:mailto:n0rp@msn.com
-TRIGGER:-P0DT7H10M0S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-P0DT1H0M0S
-END:VALARM
+ATTACH;FILENAME=L&B.jpg;FMTTYPE=image/jpeg:https://drive.google.com/a/makan
+ kor.net/file/d/0BzpnoZfjV62_UzBvam5XemV6V1k/view?usp=drive_web
+ATTACH;FILENAME=QR-Location.jpg;FMTTYPE=image/jpeg:https://drive.google.com
+ /a/makankor.net/file/d/0BzpnoZfjV62_NFhwemhBOGY1blk/view?usp=drive_web
+ATTACH;FILENAME=Adab-adab Walimatul.jpg:https://drive.google.com/a/makankor
+ .net/file/d/0BzpnoZfjV62_QkVaUFMxNTJhRHM/view?usp=drive_web
 END:VEVENT
 END:VCALENDAR
